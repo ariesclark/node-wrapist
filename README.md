@@ -14,11 +14,11 @@ const wrapist = require("wrapist");
 
 // Wrap single function.
 wrapist(this, {
-	fn: "get",
+  fn: "get",
   ctx: this.util,
   rpl: function (rtnv, options) {
-  	// rtnv, refers to the original return value.
-	  return rtnv;
+    // rtnv, refers to the original return value.
+    return rtnv;
   }
 });
 ```
