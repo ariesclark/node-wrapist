@@ -1,0 +1,8 @@
+{
+  "name": "wrapist",
+  "version": "0.0.1",
+  "description": "Cleanly and effectively wrap functions, with full control.",
+  "main": "index.js",
+  "author": "Ruby",
+  "license": "AGPL-3.0"
+}
